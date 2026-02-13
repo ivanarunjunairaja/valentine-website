@@ -106,7 +106,7 @@ p{
   justify-content:center;
   text-align:left;
   padding-left:8%;
-  background:url('image/image1.jpg') center/cover no-repeat;
+  background:url('image1.jpg') center/cover no-repeat;
 }
 
 .banner::after{
@@ -531,3 +531,4 @@ p{
 .letter-content.show{
   display:block;
 }
+
